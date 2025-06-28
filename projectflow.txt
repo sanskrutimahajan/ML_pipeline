@@ -1,0 +1,7 @@
+https://github.com/sanskrutimahajan/ML_pipeline.git
+
+Building pipeline:
+1. Create github repo and clone it to local
+2. Add Src folder along with all components
+3. Add data, models, reports directories to gitignore file
+4. Now git add,commit, push
